@@ -1,0 +1,12 @@
+C:\Users\Joelw\OneDrive\Desktop\nex-BringMyVehicle\nex-BringMyVehicle\bin\Debug\nex-BringMyVehicle.net.dll
+C:\Users\Joelw\OneDrive\Desktop\nex-BringMyVehicle\nex-BringMyVehicle\bin\Debug\nex-BringMyVehicle.net.pdb
+C:\Users\Joelw\OneDrive\Desktop\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.csproj.AssemblyReference.cache
+C:\Users\Joelw\OneDrive\Desktop\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Joelw\OneDrive\Desktop\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.net.dll
+C:\Users\Joelw\OneDrive\Desktop\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.net.pdb
+C:\Users\Joelw\OneDrive\Desktop\FiveM Scripts\nex-BringMyVehicle\nex-BringMyVehicle\nex-BringMyVehicle\bin\Debug\nex-BringMyVehicle.net.dll
+C:\Users\Joelw\OneDrive\Desktop\FiveM Scripts\nex-BringMyVehicle\nex-BringMyVehicle\nex-BringMyVehicle\bin\Debug\nex-BringMyVehicle.net.pdb
+C:\Users\Joelw\OneDrive\Desktop\FiveM Scripts\nex-BringMyVehicle\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.csproj.AssemblyReference.cache
+C:\Users\Joelw\OneDrive\Desktop\FiveM Scripts\nex-BringMyVehicle\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Joelw\OneDrive\Desktop\FiveM Scripts\nex-BringMyVehicle\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.net.dll
+C:\Users\Joelw\OneDrive\Desktop\FiveM Scripts\nex-BringMyVehicle\nex-BringMyVehicle\nex-BringMyVehicle\obj\Debug\nex-BringMyVehicle.net.pdb
