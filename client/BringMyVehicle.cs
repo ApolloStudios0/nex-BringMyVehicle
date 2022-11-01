@@ -122,10 +122,10 @@ namespace nex_BringMyVehicle.client
                 {
                     if (Game.PlayerPed == veh.Driver)
                     {
-                        SetVehicleNeedsToBeHotwired(veh, false);
-                        SetVehicleOnGroundProperly(veh);
-                        SetEntityAsMissionEntity(veh, true, true);
-                        SetVehicleHasBeenOwnedByPlayer(veh, true);
+                        SetVehicleNeedsToBeHotwired(veh.Handle, false);
+                        SetVehicleOnGroundProperly(veh.Handle);
+                        SetEntityAsMissionEntity(veh.Handle, true, true);
+                        SetVehicleHasBeenOwnedByPlayer(veh.Handle, true);
                         CurrentSavedVehicle = veh;
                         veh.PreviouslyOwnedByPlayer = true;
                         veh.IsPersistent = true;
