@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -122,6 +122,10 @@ namespace nex_BringMyVehicle.client
                 {
                     if (Game.PlayerPed == veh.Driver)
                     {
+                        SetVehicleNeedsToBeHotwired(veh, false);
+                        SetVehicleOnGroundProperly(veh);
+                        SetEntityAsMissionEntity(veh, true, true);
+                        SetVehicleHasBeenOwnedByPlayer(veh, true);
                         CurrentSavedVehicle = veh;
                         veh.PreviouslyOwnedByPlayer = true;
                         veh.IsPersistent = true;
